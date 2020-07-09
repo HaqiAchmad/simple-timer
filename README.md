@@ -1,4 +1,6 @@
-# Info Aplikasi: 
+# simple-timer
+
+## Info Aplikasi: 
 
 ### Nama : Simple Timer
 ### Versi : 1.0 
